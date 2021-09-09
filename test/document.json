@@ -27,6 +27,126 @@
     "_class": "documentState"
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "06D91437-583F-4E77-A5EA-97A538B6E1C7",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "14F59415-5D97-455F-8603-EED89C4FBDAE",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1FA45CBE-2DFE-457A-B72B-E19154C0E083",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3B54AD0D-531B-4FCA-BDA1-61FF8C069E00",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "46271523-824F-4CF3-B331-F104F09BEF7A",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6EA98B37-4241-4EBB-AA8A-61672FFA906A",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "85A5F10E-BCC5-4EEC-9DFD-E01D2B318367",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "96736A99-6717-4D79-AC5F-2E1E6C50A775",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A1B970ED-4E86-4D99-8A62-E26BB2BD89CB",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CDAF92DD-1D36-4B79-BC5A-8E4530FB7972",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E56FEE39-4B56-4362-A4CB-72522BDE9354",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Roboto-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E5FE1BCA-D45E-4F01-8D57-57C3210960D1",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Black"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],

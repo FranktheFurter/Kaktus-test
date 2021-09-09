@@ -67,6 +67,14 @@
     {
       "class": "rectangle",
       "id": "D987EBE9-2648-4971-8455-C4F04964CD7F"
+    },
+    {
+      "class": "oval",
+      "id": "E08AEA6B-4DB2-4B03-8CE4-7CBC45BFBFE5"
+    },
+    {
+      "class": "text",
+      "id": "443DAA5B-622F-4001-9CD1-DE1488985421"
     }
   ],
   "name": "10.2” iPad",
