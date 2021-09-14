@@ -93,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "80484E15-5207-4CEF-A59F-148C3F84166E"
+    },
+    {
+      "class": "oval",
+      "id": "235DF4A8-A2F8-4224-B4A8-6036CD7DF0C6"
     }
   ],
   "name": "Apple TV",
