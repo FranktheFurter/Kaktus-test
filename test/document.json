@@ -168,7 +168,9 @@
     "version": 136
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "branch test",
+    "Symbols"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
