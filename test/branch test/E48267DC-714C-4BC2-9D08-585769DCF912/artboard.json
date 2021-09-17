@@ -95,8 +95,40 @@
       "id": "80484E15-5207-4CEF-A59F-148C3F84166E"
     },
     {
+      "class": "rectangle",
+      "id": "E671D371-93FF-42F1-B42F-39428A3D32C5"
+    },
+    {
       "class": "oval",
       "id": "235DF4A8-A2F8-4224-B4A8-6036CD7DF0C6"
+    },
+    {
+      "class": "text",
+      "id": "1CB6B196-C8FF-4CAB-8B19-39C0861422C0"
+    },
+    {
+      "class": "oval",
+      "id": "D385CA4B-4D3B-4E1E-B98A-F44ABBED36D1"
+    },
+    {
+      "class": "oval",
+      "id": "02AF4D8A-7785-4471-9E7E-AF9BD7BD51C1"
+    },
+    {
+      "class": "oval",
+      "id": "848FF8DA-311F-4208-82C0-A7CF04B9D3EC"
+    },
+    {
+      "class": "oval",
+      "id": "DFF235B8-E9E2-4891-967E-CCD4F432C744"
+    },
+    {
+      "class": "oval",
+      "id": "1F0F4E08-2241-4F78-837D-C5DACAA449B2"
+    },
+    {
+      "class": "oval",
+      "id": "15DD6EEE-51BD-4784-8393-65DE597A29DB"
     }
   ],
   "name": "Apple TV",
